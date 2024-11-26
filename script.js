@@ -151,8 +151,9 @@ function page3VideoAnimation() {
             borderRadius: "30px"
         })
     })
+}
 
-
+function page4videoAnimation(){
     var sections = document.querySelectorAll(".sec-right")
 
     sections.forEach(function (elem) {
@@ -167,6 +168,7 @@ function page3VideoAnimation() {
     })
 
 }
+
 
 function page6Animations() {
     gsap.from("#btm6-part2 h4", {
