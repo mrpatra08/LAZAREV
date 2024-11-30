@@ -193,6 +193,9 @@ page2Animation()
 
 page3VideoAnimation()
 
+page4videoAnimation()
+
+
 page6Animations()
 
 loadingAnimation()
